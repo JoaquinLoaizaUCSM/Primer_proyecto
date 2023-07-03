@@ -1,4 +1,0 @@
-Esta es la historia de Joaquin Loaiza Cruz
- 
-Esta aventura inicio con Platzi donde aprendi muchas tecnologias
-incluyendo git 
